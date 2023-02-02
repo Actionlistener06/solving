@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a0443288-2fd6-4c6a-8df4-85582904f0d5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solving.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BestTimeToBuyAndSellStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTreeInorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BracketCombinationsSolved.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClimbingStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClosestPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ContainsDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindFirstandLastPositionofElementinSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstOccurrenceinaString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JumpGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LengthofLastWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LongestSubstringwithoutRepeating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MergeSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MergedTwoSortedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinWindowSubstringSolved.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PascalsTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PlusOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PlusOneSimpleSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RotateImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SearchInsertPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortedArrayToBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ValidPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ValidParanthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ValidSudoku.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DXViJNxRpmC2yYwjC0OP6WEhC8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mserh/IdeaProjects/solving&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.BestTimeToBuyAndSellStock">
+    <configuration name="BestTimeToBuyAndSellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BestTimeToBuyAndSellStock" />
+      <module name="solving" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClimbingStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClimbingStairs" />
+      <module name="solving" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MergeSortedArray" />
+      <module name="solving" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PascalsTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PascalsTriangle" />
+      <module name="solving" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortedArrayToBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortedArrayToBinaryTree" />
+      <module name="solving" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BestTimeToBuyAndSellStock" />
+        <item itemvalue="Application.PascalsTriangle" />
+        <item itemvalue="Application.SortedArrayToBinaryTree" />
+        <item itemvalue="Application.MergeSortedArray" />
+        <item itemvalue="Application.ClimbingStairs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0443288-2fd6-4c6a-8df4-85582904f0d5" name="Changes" comment="" />
+      <created>1660845544019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660845544019</updated>
+      <workItem from="1660845545856" duration="21481000" />
+      <workItem from="1663541005532" duration="56000" />
+      <workItem from="1663704031454" duration="212000" />
+      <workItem from="1663704257742" duration="121000" />
+      <workItem from="1663704394779" duration="38000" />
+      <workItem from="1663704443332" duration="1332000" />
+      <workItem from="1664782795999" duration="3689000" />
+      <workItem from="1664975792579" duration="2518000" />
+      <workItem from="1665066524671" duration="12071000" />
+      <workItem from="1666120657987" duration="36000" />
+      <workItem from="1666296449474" duration="348000" />
+      <workItem from="1667076759968" duration="9579000" />
+      <workItem from="1667496368647" duration="28433000" />
+      <workItem from="1667687848414" duration="7036000" />
+      <workItem from="1667755042128" duration="18516000" />
+      <workItem from="1668072901974" duration="138000" />
+      <workItem from="1668074025280" duration="1305000" />
+      <workItem from="1668409525109" duration="96000" />
+      <workItem from="1669065074478" duration="6019000" />
+      <workItem from="1669083766687" duration="3260000" />
+      <workItem from="1669208602258" duration="21000" />
+      <workItem from="1669692532373" duration="268000" />
+      <workItem from="1672219329903" duration="27000" />
+      <workItem from="1672219570579" duration="65000" />
+      <workItem from="1672219647688" duration="160000" />
+      <workItem from="1674483063789" duration="9000" />
+      <workItem from="1674647082366" duration="1818000" />
+      <workItem from="1674719327983" duration="31000" />
+      <workItem from="1674719395338" duration="117000" />
+      <workItem from="1674719522644" duration="15958000" />
+      <workItem from="1674896841440" duration="19978000" />
+      <workItem from="1675001886366" duration="4341000" />
+      <workItem from="1675076800472" duration="13332000" />
+      <workItem from="1675268091601" duration="6548000" />
+      <workItem from="1675344829344" duration="11635000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/solving$Main.ic" NAME="Main Coverage Results" MODIFIED="1660869422562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
