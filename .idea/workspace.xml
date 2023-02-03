@@ -5,42 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0443288-2fd6-4c6a-8df4-85582904f0d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solving.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BestTimeToBuyAndSellStock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinaryTreeInorderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BracketCombinationsSolved.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClimbingStairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClosestPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ContainsDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FindFirstandLastPositionofElementinSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FirstOccurrenceinaString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JumpGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LengthofLastWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LongestCommonPrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LongestSubstringwithoutRepeating.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MergeSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MergedTwoSortedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MinWindowSubstringSolved.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PascalsTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlusOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlusOneSimpleSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RemoveDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RemoveElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RotateImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SearchInsertPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortedArrayToBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThreeArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ValidPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ValidParanthesis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ValidSudoku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SingleNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,16 +51,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BestTimeToBuyAndSellStock">
+  <component name="RunManager" selected="Application.SingleNumber">
     <configuration name="BestTimeToBuyAndSellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BestTimeToBuyAndSellStock" />
-      <module name="solving" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ClimbingStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ClimbingStairs" />
       <module name="solving" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -114,6 +73,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SingleNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SingleNumber" />
+      <module name="solving" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SortedArrayToBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SortedArrayToBinaryTree" />
       <module name="solving" />
@@ -123,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SingleNumber" />
         <item itemvalue="Application.BestTimeToBuyAndSellStock" />
         <item itemvalue="Application.PascalsTriangle" />
         <item itemvalue="Application.SortedArrayToBinaryTree" />
         <item itemvalue="Application.MergeSortedArray" />
-        <item itemvalue="Application.ClimbingStairs" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +139,8 @@
       <workItem from="1675001886366" duration="4341000" />
       <workItem from="1675076800472" duration="13332000" />
       <workItem from="1675268091601" duration="6548000" />
-      <workItem from="1675344829344" duration="11635000" />
+      <workItem from="1675344829344" duration="12585000" />
+      <workItem from="1675442987028" duration="2304000" />
     </task>
     <servers />
   </component>
