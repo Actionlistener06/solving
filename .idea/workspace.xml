@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0443288-2fd6-4c6a-8df4-85582904f0d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SingleNumber.java" afterDir="false" />
+    <list default="true" id="a0443288-2fd6-4c6a-8df4-85582904f0d5" name="Changes" comment="n">
+      <change afterPath="$PROJECT_DIR$/src/ExcelSheetColumnNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterSectionofTwoLinkedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MajorityElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SingleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SingleNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +55,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SingleNumber">
+  <component name="RunManager" selected="Application.ExcelSheetColumnNumber">
     <configuration name="BestTimeToBuyAndSellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BestTimeToBuyAndSellStock" />
       <module name="solving" />
@@ -59,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MergeSortedArray" />
+    <configuration name="ExcelSheetColumnNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExcelSheetColumnNumber" />
       <module name="solving" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,11 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExcelSheetColumnNumber" />
         <item itemvalue="Application.SingleNumber" />
         <item itemvalue="Application.BestTimeToBuyAndSellStock" />
         <item itemvalue="Application.PascalsTriangle" />
         <item itemvalue="Application.SortedArrayToBinaryTree" />
-        <item itemvalue="Application.MergeSortedArray" />
       </list>
     </recent_temporary>
   </component>
@@ -140,8 +144,17 @@
       <workItem from="1675076800472" duration="13332000" />
       <workItem from="1675268091601" duration="6548000" />
       <workItem from="1675344829344" duration="12585000" />
-      <workItem from="1675442987028" duration="2304000" />
+      <workItem from="1675442987028" duration="3893000" />
+      <workItem from="1675520215444" duration="4949000" />
     </task>
+    <task id="LOCAL-00001" summary="n">
+      <created>1675445317522</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675445317522</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +170,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="n" />
+    <option name="LAST_COMMIT_MESSAGE" value="n" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

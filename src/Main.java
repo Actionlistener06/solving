@@ -1,3 +1,4 @@
+import java.util.HashMap;
 import java.util.Scanner;
 
 class Main {
@@ -16,8 +17,7 @@ class Main {
         System.out.println(larger_integer);
         // keep this function call here
 
-
-
+        HashMap<Integer,Integer> map= new HashMap<>();
 
     }
 
