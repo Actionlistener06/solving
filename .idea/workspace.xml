@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0443288-2fd6-4c6a-8df4-85582904f0d5" name="Changes" comment="n">
-      <change afterPath="$PROJECT_DIR$/src/ExcelSheetColumnNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterSectionofTwoLinkedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MajorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HappyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MoveZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SingleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SingleNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MergedTwoSortedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MergedTwoSortedLists.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +56,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ExcelSheetColumnNumber">
+  <component name="RunManager" selected="Application.HappyNumber">
     <configuration name="BestTimeToBuyAndSellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BestTimeToBuyAndSellStock" />
       <module name="solving" />
@@ -65,6 +66,13 @@
     </configuration>
     <configuration name="ExcelSheetColumnNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExcelSheetColumnNumber" />
+      <module name="solving" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HappyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HappyNumber" />
       <module name="solving" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,20 +92,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortedArrayToBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SortedArrayToBinaryTree" />
-      <module name="solving" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HappyNumber" />
         <item itemvalue="Application.ExcelSheetColumnNumber" />
         <item itemvalue="Application.SingleNumber" />
         <item itemvalue="Application.BestTimeToBuyAndSellStock" />
         <item itemvalue="Application.PascalsTriangle" />
-        <item itemvalue="Application.SortedArrayToBinaryTree" />
       </list>
     </recent_temporary>
   </component>
@@ -146,6 +147,9 @@
       <workItem from="1675344829344" duration="12585000" />
       <workItem from="1675442987028" duration="3893000" />
       <workItem from="1675520215444" duration="4949000" />
+      <workItem from="1675526504413" duration="212000" />
+      <workItem from="1675537644251" duration="7660000" />
+      <workItem from="1675612506611" duration="2829000" />
     </task>
     <task id="LOCAL-00001" summary="n">
       <created>1675445317522</created>
@@ -154,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675445317522</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="n">
+      <created>1675526666752</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675526666752</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -1,3 +1,5 @@
+import java.util.LinkedList;
+
 public class MergedTwoSortedLists {
     public class ListNode {
       int val;
@@ -10,9 +12,10 @@ public class MergedTwoSortedLists {
         ListNode preHead = new ListNode(0);
         ListNode last = preHead;
 
+
         while(l1 != null && l2 != null) {
             if(l1.val > l2.val) {
-                last.next = l2;
+                last  .next = l2;
                 l2 = l2.next;
             } else {
                 last.next = l1;

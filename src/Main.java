@@ -1,3 +1,4 @@
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
 
@@ -18,6 +19,7 @@ class Main {
         // keep this function call here
 
         HashMap<Integer,Integer> map= new HashMap<>();
+        ArrayList<Integer> list = new ArrayList<>();
 
     }
 
